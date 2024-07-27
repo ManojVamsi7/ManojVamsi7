@@ -16,8 +16,22 @@ Hello! I'm **Manoj Vamsi**, a software developer with a passion for creating rob
 
 ## 📂 Projects
 
-### [Project Name](https://github.com/ManojVamsi7/Project-Name)
-A brief description of what this project does, its features, and technologies used.
+
+### [Todo List App](https://github.com/ManojVamsi7/todo-list-app)
+
+**Description:** The Todo List App is a simple yet powerful tool for managing tasks. It allows users to create, read, update, and delete tasks efficiently, helping them stay organized and productive.
+
+**Features:**
+- **Task Management:** Add, edit, and delete tasks with ease.
+- **Responsive Design:** Accessible on both desktop and mobile devices.
+
+**Technologies Used:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Other:** RESTful APIs, EJS (Embedded JavaScript Templates)
+
+Feel free to explore the code, contribute, or use the app to manage your tasks efficiently!
 
 ### [Another Project](https://github.com/ManojVamsi7/Another-Project)
 A brief description of another project, its purpose, and the tech stack.
