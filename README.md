@@ -1,6 +1,3 @@
-Certainly! Here's a more structured README file with distinct sections:
-
----
 
 # 👋 Welcome to Manoj Vamsi's GitHub Profile
 
