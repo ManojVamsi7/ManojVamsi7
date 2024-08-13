@@ -33,8 +33,8 @@ Hello! I'm **Manoj Vamsi**, a software developer with a passion for creating rob
 
 Feel free to explore the code, contribute, or use the app to manage your tasks efficiently!
 
-### [Another Project](https://github.com/ManojVamsi7/Another-Project)
-A brief description of another project, its purpose, and the tech stack.
+### [Weather-report](https://github.com/ManojVamsi7/Weather-report)
+This app allows users to search for a city and get weather details such as temperature, humidity, and a description of the weather conditions. Users can also get weather information for their current location.
 
 ### [Open-Source Contributions](https://github.com/ManojVamsi7?tab=repositories)
 I actively contribute to open-source projects. Check out my contributions to various repositories.
@@ -53,8 +53,8 @@ I actively contribute to open-source projects. Check out my contributions to var
 
 ### 🌟 Featured Repositories
 
-- [Repository Name](https://github.com/ManojVamsi7/Repository-Name) - A brief description.
-- [Another Repository](https://github.com/ManojVamsi7/Another-Repository) - A brief description.
+- [Spotifymusicdownloader (BETA)](https://github.com/ManojVamsi7/Spotifymusicdownloader) - A web application to download spotify playlists songs by using API's and searching them on youtube and downloading them as MP3 files
+- [](https://github.com/ManojVamsi7/Another-Repository) - 
 
 *(You can feature your most popular or significant repositories here)*
 
