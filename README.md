@@ -61,11 +61,3 @@ I actively contribute to open-source projects. Check out my contributions to var
 ---
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
-
----
-
-### Note:
-
-- Replace the placeholder URLs and text with actual information.
-- You can customize the sections further based on the specific details you want to showcase.
-- To include GitHub stats or any dynamic content, ensure the links or badges are accurate and functioning.
