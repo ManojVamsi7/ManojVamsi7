@@ -46,7 +46,7 @@ I actively contribute to open-source projects. Check out my contributions to var
 ## 📫 Contact Me
 
 - **LinkedIn:** [Manoj Vamsi](https://www.linkedin.com/in/manoj-vamsi/)
-- **Email:** [manojvamsi.d07](mailto:manojvamsi.d07@gmail.com)
+- **Email:** [manojvamsi.d07@gmail.com](mailto:manojvamsi.d07@gmail.com)
 - **Twitter:** [@ManojVamsi](https://twitter.com/)
 
 ---
