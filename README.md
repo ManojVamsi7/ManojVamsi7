@@ -7,12 +7,11 @@ Hello! I'm **Manoj Vamsi**, a software developer with a passion for creating rob
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** Python, JavaScript, C++
+- **Languages:** Python, JavaScript
 - **Frontend:** HTML, CSS, React.js
 - **Backend:** Node.js, Express.js
 - **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, AWS, CI/CD
-- **Others:** Git, Data Structures & Algorithms, Machine Learning
+- **Others:** Git, Machine Learning
 
 ## 📂 Projects
 
