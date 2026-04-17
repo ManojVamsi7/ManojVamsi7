@@ -1,53 +1,100 @@
-from pathlib import Path
+<div align="center">
 
-readme = r"""# Hi, I'm Manoj Vamsi 👋
+# Hi 👋, I'm Manoj Vamsi
 
-I'm an **AI/ML graduate** and **software developer** who enjoys building practical products across **web development, AI-powered tools, and data-driven applications**.
+### AI/ML Graduate • Full-Stack Developer • Builder of practical, polished web apps
 
-## About me
+<p>
+  <a href="https://github.com/ManojVamsi7">
+    <img src="https://img.shields.io/github/followers/ManojVamsi7?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ManojVamsi7?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Public%20Repos-blue?style=for-the-badge" />
+  </a>
+  <a href="https://manojvamsid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge" />
+  </a>
+</p>
 
-- 🌱 I like building projects that combine **clean UI**, **useful functionality**, and **real-world problem solving**
-- 🤖 Interested in **AI/ML**, **full-stack development**, and **developer-focused products**
-- 🚀 I enjoy turning ideas into deployable applications and polished user experiences
+</div>
 
-## Tech stack
+---
 
-**Languages**
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+## 🚀 About Me
 
-**Frameworks & Tools**
-- React
-- Next.js
-- Flask
-- Tailwind CSS
-- Firebase
-- SQLite
-- Git
-- Vercel
-- Render
+I’m an **AI/ML graduate** and **software developer** passionate about building products that are both **useful** and **well-designed**.
 
-## Featured projects
+- 🤖 Interested in **AI-powered applications**
+- 🌐 Building with **full-stack web technologies**
+- 📊 Enjoy working on **data-driven and real-world problem solving**
+- 🎯 Focused on creating projects that are practical, polished, and deployable
 
-### [ResumeAI](https://github.com/ManojVamsi7/ResumeAi)
-AI-powered resume analyzer that gives ATS-style feedback, skill gap insights, and improvement suggestions using **Flask**, **Groq / Llama 3.3**, **Firebase**, and **PDF parsing**.
+---
 
-### [NASA APOD Explorer](https://github.com/ManojVamsi7/NASA-APOD-Explorer)
-A modern **Next.js + TypeScript** application to explore NASA's Astronomy Picture of the Day archive with date navigation, gallery browsing, caching, and a responsive UI.
+## 🛠 Tech Stack
 
-### [Portfolio Website](https://github.com/ManojVamsi7/portfolio)
-My personal portfolio built with **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, and **Framer Motion** to showcase projects, skills, and experience.
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-### [CRM CLI Application](https://github.com/ManojVamsi7/Qbits-Internship-assessment)
-A command-line CRM tool for lead management, payouts, and visualization using **Python**, **SQLite**, **Pandas**, and **Plotly**.
+### Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-### [Weather App](https://github.com/ManojVamsi7/Weather-report)
-A responsive weather application built with **HTML**, **CSS**, and **JavaScript** with city search and current-location support.
+---
 
-## Other projects
+## 🌟 Featured Projects
+
+### 🔹 [ResumeAI](https://github.com/ManojVamsi7/ResumeAi)
+**AI-powered resume analyzer** that helps users improve resumes with ATS-style feedback, skill gap analysis, and actionable suggestions.
+
+**Built with:** Flask, Groq, Llama 3.3, Firebase, PDF parsing
+
+---
+
+### 🔹 [NASA APOD Explorer](https://github.com/ManojVamsi7/NASA-APOD-Explorer)
+A modern astronomy explorer that lets users browse NASA’s Astronomy Picture of the Day archive with a clean, responsive interface.
+
+**Built with:** Next.js, TypeScript, Tailwind CSS
+
+---
+
+### 🔹 [Portfolio Website](https://github.com/ManojVamsi7/portfolio)
+My personal portfolio website showcasing my skills, projects, and experience with a modern UI and smooth interactions.
+
+**Built with:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+
+---
+
+### 🔹 [CRM CLI Application](https://github.com/ManojVamsi7/Qbits-Internship-assessment)
+A command-line CRM tool for managing leads, user workflows, payouts, and lead visualization.
+
+**Built with:** Python, SQLite, Pandas, Plotly
+
+---
+
+### 🔹 [Weather App](https://github.com/ManojVamsi7/Weather-report)
+A responsive weather application with city search and current-location weather support.
+
+**Built with:** HTML, CSS, JavaScript
+
+---
+
+## 📌 Other Projects
 
 - [Drought-Prediction-](https://github.com/ManojVamsi7/Drought-Prediction-)
 - [OGimageGenerator](https://github.com/ManojVamsi7/OGimageGenerator)
@@ -55,27 +102,41 @@ A responsive weather application built with **HTML**, **CSS**, and **JavaScript*
 - [Training_portal](https://github.com/ManojVamsi7/Training_portal)
 - [reminder-system](https://github.com/ManojVamsi7/reminder-system)
 - [email_verification](https://github.com/ManojVamsi7/email_verification)
-- [Weather Dashboard](https://github.com/ManojVamsi7/-Weather-Dahboard)
+- [-Weather-Dahboard](https://github.com/ManojVamsi7/-Weather-Dahboard)
 - [top-tracks-spotify.io](https://github.com/ManojVamsi7/top-tracks-spotify.io)
 - [car_price](https://github.com/ManojVamsi7/car_price)
 
-## What I'm working on
+---
 
-- Building AI-assisted applications
-- Improving full-stack product development skills
-- Creating polished, deployable portfolio projects
-- Exploring data-driven solutions for real-world problems
+## 📈 GitHub Stats
 
-## Connect with me
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojVamsi7&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojVamsi7&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building **AI-assisted applications**
+- Strengthening my **full-stack development** skills
+- Creating **production-ready portfolio projects**
+- Exploring **real-world ML and data-driven solutions**
+
+---
+
+## 🌐 Connect With Me
 
 - GitHub: [@ManojVamsi7](https://github.com/ManojVamsi7)
 - Portfolio: [manojvamsid.vercel.app](https://manojvamsid.vercel.app/)
 
 ---
 
-_Thanks for visiting my profile._
-"""
+<div align="center">
 
-path = Path("/mnt/data/README_profile.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Saved to {path}")
+### Thanks for visiting my profile ⭐
+
+</div>
